@@ -2,22 +2,29 @@
 
 This project was made using React, Firebase, and React-Bootstrap.
 
-## Available Scripts
+## About Project
 
-In the project directory, you can run:
+I wanted to create a project to that used the different technologies that I have been learning. 
+I chose firebase as a backend because how how quickly I could get it up and running.
 
-### `npm start`
+### `Problems Solved`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+While building out this application I ran into various issues.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  1. Live Updating Chatboard
+    - I wanted a system similar to node/socket.io. 
+      Google Firebase offered a similar type of user experience and was a lof faster to develop and push out code
+  
+  2. UI components
+    - React Bootstrap offered a way to quickly use premade components. I added on to the styling via a css file.
+    
+   3. Log In
+    - I needed a way to log in users to keep track of messages and who sent them. 
+    Firebase offered a quick and easy way to accomplish this.
 
-### `npm test`
+### `DEMO`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The site is live at (https://google.com)
 
 ### `npm run build`
 
