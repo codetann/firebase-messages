@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Firebase React Messages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made using React, Firebase, and React-Bootstrap.
 
 ## Available Scripts
 
